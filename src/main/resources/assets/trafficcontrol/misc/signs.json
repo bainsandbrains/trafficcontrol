@@ -5004,5 +5004,107 @@
     "variant": "104",
     "tooltip": "Often in KM/H, but is MPH in the UK",
     "note": "Most areas consider this speed limit in kilometers per hour, but the United Kingdom uses it for miles per hour."
+  },
+{
+    "name": "Speed Limit 5 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "232",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 10 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "233",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 15 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "234",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 20 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "235",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 25 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "236",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 30 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "237",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 35 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "238",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 40 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "239",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 45 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "240",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 50 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "241",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 55 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "242",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 60 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "243",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 65 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "244",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 70 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "245",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 75 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "246",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 80 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "247",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 85 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "248",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
   }
 ]
