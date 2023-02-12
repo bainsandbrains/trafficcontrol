@@ -5370,5 +5370,126 @@
     "name": "Right Turn 35 MPH",
     "type": "diamond",
     "variant": "299"
+  },
+  {
+    "name": "Object Marker",
+    "type": "diamond",
+    "variant": "300"
+  },
+  {
+    "name": "Object Marker (Yellow-Studded Yellow)",
+    "type": "diamond",
+    "variant": "301"
+  },
+  {
+    "name": "Object Marker (Yellow-Studded Black)",
+    "type": "diamond",
+    "variant": "302"
+  },
+  {
+    "name": "End of Roadway Marker",
+    "type": "diamond",
+    "variant": "303"
+  },
+  {
+    "name": "End of Roadway Marker (Red-Studded Red)",
+    "type": "diamond",
+    "variant": "304"
+  },
+  {
+    "name": "End of Roadway Marker (Red-Studded Black)",
+    "type": "diamond",
+    "variant": "305"
+  },
+{
+    "name": "ROAD ENDS IN WATER",
+    "type": "diamond",
+    "variant": "306"
+  },
+  {
+    "name": "COUNTY ROAD ENDS AT WATER",
+    "type": "diamond",
+    "variant": "307"
+  },
+  {
+    "name": "LOOSE GRAVEL",
+    "type": "diamond",
+    "variant": "308"
+  },
+  {
+    "name": "CYCLIST DISMOUNT TO CROSS RAILROAD TRACKS",
+    "type": "diamond",
+    "variant": "309",
+    "tooltip": "Handy for mods with bicycles",
+    "note": "Can find more utility if you have a mod with bicycles."
+  },
+  {
+    "name": "Speed Limit 20 Ahead (School)",
+    "type": "diamond",
+    "variant": "310",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 25 Ahead (School)",
+    "type": "diamond",
+    "variant": "311",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 30 Ahead (School)",
+    "type": "diamond",
+    "variant": "312",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 35 Ahead (School)",
+    "type": "diamond",
+    "variant": "313",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "NO OUTLET (HD)",
+    "type": "diamond",
+    "variant": "314"
+  },
+  {
+    "name": "Hidden Left Side Road",
+    "type": "diamond",
+    "variant": "315"
+  },
+  {
+    "name": "Hidden Right Side Road",
+    "type": "diamond",
+    "variant": "316"
+  },
+  {
+    "name": "Hidden Crossroads",
+    "type": "diamond",
+    "variant": "317"
+  },
+  {
+    "name": "Multiple Right Lanes End",
+    "type": "diamond",
+    "variant": "318"
+  },
+  {
+    "name": "Multiple Left Lanes End",
+    "type": "diamond",
+    "variant": "319"
+  },
+  {
+    "name": "Multiple Lanes End",
+    "type": "diamond",
+    "variant": "320"
+  },
+  {
+    "name": "Reduced to One Lane",
+    "type": "diamond",
+    "variant": "321"
+  },
+  {
+    "name": "Low Ground Clearance",
+    "type": "diamond",
+    "variant": "322"
   }
 ]
