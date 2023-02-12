@@ -5151,5 +5151,39 @@
     "name": "Right Z-Turn (Construction)",
     "type": "diamond",
     "variant": "257"
+  },
+  {
+    "name": "Left-Turning 270-Degree Loop (Net Turn Right, Construction)",
+    "type": "diamond",
+    "variant": "258",
+    "tooltip": "The loop should be roughly 235 degrees or more",
+    "note": "A turn of at least 235 degrees justifies this sign."
+  },
+  {
+    "name": "Lattice Grid Right (Construction)",
+    "type": "diamond",
+    "variant": "259"
+  },
+  {
+    "name": "Divided Highway Ends (Construction)",
+    "type": "diamond",
+    "variant": "260"
+  },
+  {
+    "name": "Cross Roads, Railroad To Left (Construction)",
+    "type": "diamond",
+    "variant": "261"
+  },
+  {
+    "name": "T-Intersection, Railroad To Left (Construction)",
+    "type": "diamond",
+    "variant": "262",
+    "tooltip": "Place 30 blocks from the crossing for a road, or 15 for pedestrian paths",
+    "note": "The MUTCD says this sign should be 100 feet (30 blocks) from the RXR (50 [15 blocks] for pedestrian paths), displayed everywhere it can be."
+  },
+  {
+    "name": "Y-Intersection (Construction)",
+    "type": "diamond",
+    "variant": "263"
   }
 ]
