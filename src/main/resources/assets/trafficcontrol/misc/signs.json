@@ -5230,6 +5230,105 @@
     "type": "diamond",
     "variant": "271",
     "tooltip": "Use this sign when the left lane ends soon."
+  },
+  {
+    "name": "Food Ahead",
+    "type": "diamond",
+    "variant": "272"
+  },
+  {
+    "name": "Camera",
+    "type": "diamond",
+    "variant": "273"
+  },
+  {
+    "name": "Camera (Red Light)",
+    "type": "diamond",
+    "variant": "274"
+  },
+  {
+    "name": "Camera (Speed)",
+    "type": "diamond",
+    "variant": "275"
+  },
+  {
+    "name": "NO CENTER LINE",
+    "type": "diamond",
+    "variant": "276"
+  },
+  {
+    "name": "NO CENTER STRIPE",
+    "type": "diamond",
+    "variant": "277"
+  },
+  {
+    "name": "Flagger Ahead",
+    "type": "diamond",
+    "variant": "278"
+  },
+  {
+    "name": "NO OUTLET",
+    "type": "diamond",
+    "variant": "279"
+  },
+  {
+    "name": "RIGHT LANE CLOSED",
+    "type": "diamond",
+    "variant": "280"
+  },
+  {
+    "name": "RIGHT LANE CLOSED AHEAD",
+    "type": "diamond",
+    "variant": "281"
+  },
+  {
+    "name": "RIGHT LANE CLOSED 1/2 MILE",
+    "type": "diamond",
+    "variant": "282"
+  },
+  {
+    "name": "RIGHT LANE CLOSED 3/4 MILE",
+    "type": "diamond",
+    "variant": "283"
+  },
+  {
+    "name": "RIGHT LANE CLOSED 1 MILE",
+    "type": "diamond",
+    "variant": "284"
+  },
+  {
+    "name": "RIGHT LANE CLOSED 2 MILES",
+    "type": "diamond",
+    "variant": "285"
+  },
+  {
+    "name": "LEFT LANE CLOSED",
+    "type": "diamond",
+    "variant": "286"
+  },
+  {
+    "name": "LEFT LANE CLOSED AHEAD",
+    "type": "diamond",
+    "variant": "287"
+  },
+  {
+    "name": "LEFT LANE CLOSED 1/2 MILE",
+    "type": "diamond",
+    "variant": "288"
+  },
+  {
+    "name": "LEFT LANE CLOSED 3/4 MILE",
+    "type": "diamond",
+    "variant": "289"
+  },
+  {
+    "name": "LEFT LANE CLOSED 1 MILE",
+    "type": "diamond",
+    "variant": "290"
+  },
+  {
+    "name": "LEFT LANE CLOSED 2 MILES",
+    "type": "diamond",
+    "variant": "291"
   }
-]
 ]
