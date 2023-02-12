@@ -5330,5 +5330,45 @@
     "name": "LEFT LANE CLOSED 2 MILES",
     "type": "diamond",
     "variant": "291"
+  },
+  {
+    "name": "Left Curve 25 MPH",
+    "type": "diamond",
+    "variant": "292"
+  },
+  {
+    "name": "Left Curve 35 MPH",
+    "type": "diamond",
+    "variant": "293"
+  },
+  {
+    "name": "Left Turn 25 MPH",
+    "type": "diamond",
+    "variant": "294"
+  },
+  {
+    "name": "Left Turn 35 MPH",
+    "type": "diamond",
+    "variant": "295"
+  },
+  {
+    "name": "Right Curve 25 MPH",
+    "type": "diamond",
+    "variant": "296"
+  },
+  {
+    "name": "Right Curve 35 MPH",
+    "type": "diamond",
+    "variant": "297"
+  },
+  {
+    "name": "Right Turn 25 MPH",
+    "type": "diamond",
+    "variant": "298"
+  },
+  {
+    "name": "Right Turn 35 MPH",
+    "type": "diamond",
+    "variant": "299"
   }
 ]
