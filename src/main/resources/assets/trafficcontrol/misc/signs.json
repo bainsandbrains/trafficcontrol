@@ -5106,5 +5106,50 @@
     "type": "diamond",
     "variant": "248",
     "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Right Curve (Construction)",
+    "type": "diamond",
+    "variant": "249"
+  },
+  {
+    "name": "Right Curve With Left Side Road (Construction)",
+    "type": "diamond",
+    "variant": "250"
+  },
+  {
+    "name": "Right Hairpin Turn (Construction)",
+    "type": "diamond",
+    "variant": "251"
+  },
+  {
+    "name": "Right S-Curve (Construction)",
+    "type": "diamond",
+    "variant": "252"
+  },
+  {
+    "name": "Right Side Road (Construction)",
+    "type": "diamond",
+    "variant": "253"
+  },
+  {
+    "name": "Right Acute-Angled Side Road (Construction)",
+    "type": "diamond",
+    "variant": "254"
+  },
+  {
+    "name": "Right Turn (Construction)",
+    "type": "diamond",
+    "variant": "255"
+  },
+  {
+    "name": "Right Winding Road (Construction)",
+    "type": "diamond",
+    "variant": "256"
+  },
+  {
+    "name": "Right Z-Turn (Construction)",
+    "type": "diamond",
+    "variant": "257"
   }
 ]
