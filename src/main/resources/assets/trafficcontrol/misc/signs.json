@@ -5491,5 +5491,60 @@
     "name": "Low Ground Clearance",
     "type": "diamond",
     "variant": "322"
+  },
+  {
+    "name": "Railway Speed Limit (10-15)",
+    "type": "diamond",
+    "variant": "323"
+  },
+  {
+    "name": "Railway Speed Limit (20-25)",
+    "type": "diamond",
+    "variant": "324"
+  },
+  {
+    "name": "Railway Speed Limit (30-35)",
+    "type": "diamond",
+    "variant": "325"
+  },
+  {
+    "name": "Railway Speed Limit (40-45)",
+    "type": "diamond",
+    "variant": "326"
+  },
+  {
+    "name": "Railway Speed Limit (50-55)",
+    "type": "diamond",
+    "variant": "327"
+  },
+  {
+    "name": "Railway Speed Limit (60-65)",
+    "type": "diamond",
+    "variant": "328"
+  },
+  {
+    "name": "Railway Speed Limit (70-75)",
+    "type": "diamond",
+    "variant": "329"
+  },
+  {
+    "name": "Railway Speed Limit (80-85)",
+    "type": "diamond",
+    "variant": "330"
+  },
+  {
+    "name": "Railway Speed Limit (90-95)",
+    "type": "diamond",
+    "variant": "331"
+  },
+  {
+    "name": "Railway Speed Limit (100-105)",
+    "type": "diamond",
+    "variant": "332"
+  },
+  {
+    "name": "WHEN FLOODED TURN AROUND DON'T DROWN",
+    "type": "diamond",
+    "variant": "333"
   }
 ]
