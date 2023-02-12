@@ -5175,15 +5175,17 @@
     "variant": "261"
   },
   {
-    "name": "T-Intersection, Railroad To Left (Construction)",
+    "name": "Left Side Road Crosses Railroad (Construction)",
     "type": "diamond",
     "variant": "262",
     "tooltip": "Place 30 blocks from the crossing for a road, or 15 for pedestrian paths",
     "note": "The MUTCD says this sign should be 100 feet (30 blocks) from the RXR (50 [15 blocks] for pedestrian paths), displayed everywhere it can be."
   },
   {
-    "name": "Y-Intersection (Construction)",
+    "name": "T-Intersection, Railroad To Left (Construction)",
     "type": "diamond",
-    "variant": "263"
+    "variant": "263",
+    "tooltip": "Place 30 blocks from the crossing for a road, or 15 for pedestrian paths",
+    "note": "The MUTCD says this sign should be 100 feet (30 blocks) from the RXR (50 [15 blocks] for pedestrian paths), displayed everywhere it can be."
   }
 ]
