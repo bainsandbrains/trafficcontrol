@@ -5546,5 +5546,16 @@
     "name": "WHEN FLOODED TURN AROUND DON'T DROWN",
     "type": "diamond",
     "variant": "333"
+  },
+  {
+    "name": "Signal Work Ahead",
+    "type": "diamond",
+    "variant": "334"
+  },
+  {
+    "name": "BRIDGE MAY BE SPICY",
+    "type": "diamond",
+    "variant": "335",
+    "tooltip": "This sign is just a joke, lol"
   }
 ]
