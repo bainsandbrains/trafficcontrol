@@ -5203,5 +5203,33 @@
     "name": "SIGNAL WORK AHEAD",
     "type": "diamond",
     "variant": "266"
+  },
+  {
+    "name": "Ramp Metered When Flashing",
+    "type": "diamond",
+    "variant": "267"
+  },
+  {
+    "name": "RIGHT LANE ENDS",
+    "type": "diamond",
+    "variant": "268"
+  },
+  {
+    "name": "LEFT LANE ENDS",
+    "type": "diamond",
+    "variant": "269"
+  },
+  {
+    "name": "Lane Ends Merge Left",
+    "type": "diamond",
+    "variant": "270",
+    "tooltip": "Use this sign when the right lane ends soon."
+  },
+  {
+    "name": "Lane Ends Merge Right",
+    "type": "diamond",
+    "variant": "271",
+    "tooltip": "Use this sign when the left lane ends soon."
   }
+]
 ]
