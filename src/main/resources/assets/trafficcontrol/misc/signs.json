@@ -5187,5 +5187,21 @@
     "variant": "263",
     "tooltip": "Place 30 blocks from the crossing for a road, or 15 for pedestrian paths",
     "note": "The MUTCD says this sign should be 100 feet (30 blocks) from the RXR (50 [15 blocks] for pedestrian paths), displayed everywhere it can be."
+  },
+  {
+    "name": "KEEP AWAY FROM INVISIBLE CHUNKS",
+    "type": "diamond",
+    "variant": "264",
+    "tooltip": "Use near areas prone to frequent chunk errors"
+  },
+  {
+    "name": "TREE WORK AHEAD",
+    "type": "diamond",
+    "variant": "265"
+  },
+  {
+    "name": "SIGNAL WORK AHEAD",
+    "type": "diamond",
+    "variant": "266"
   }
 ]
