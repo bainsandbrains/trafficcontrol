@@ -5557,5 +5557,10 @@
     "type": "diamond",
     "variant": "335",
     "tooltip": "This sign is just a joke, lol"
+  },
+  {
+    "name": "PARDON OUR DUST",
+    "type": "diamond",
+    "variant": "336"
   }
 ]
