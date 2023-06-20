@@ -5563,7 +5563,7 @@
     "type": "diamond",
     "variant": "336"
   },
-    {
+  {
     "name": "Invalid",
     "type": "diamond",
     "variant": "337",
@@ -5576,5 +5576,25 @@
     "variant": "338",
     "tooltip": "Avoid deliberate use of this sign",
     "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
+  },
+  {
+    "name": "BRIDGE ICES BEFORE ROAD",
+    "type": "diamond",
+    "variant": "339"
+  },
+  {
+    "name": "DIP (HD)",
+    "type": "diamond",
+    "variant": "340"
+  },
+  {
+    "name": "BLIND CHILD AREA",
+    "type": "diamond",
+    "variant": "341"
+  },
+  {
+    "name": "DEAF CHILD AREA",
+    "type": "diamond",
+    "variant": "342"
   }
 ]
