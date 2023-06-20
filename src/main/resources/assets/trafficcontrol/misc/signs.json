@@ -5596,5 +5596,15 @@
     "name": "DEAF CHILD AREA",
     "type": "diamond",
     "variant": "342"
+  },
+  {
+    "name": "Diamond Template (Yellow)",
+    "type": "diamond",
+    "variant": "343"
+  },
+  {
+    "name": "Diamond Template (Orange)",
+    "type": "diamond",
+    "variant": "344"
   }
 ]
