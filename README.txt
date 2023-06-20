@@ -1,3 +1,5 @@
+ATTENTION: I currently do not have plans to update this fork of Traffic Control to version 1.0.0. However, I may occasionally update this fork with new signs and you are free to take any of the signs from this fork and use them in your own signpacks.
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
