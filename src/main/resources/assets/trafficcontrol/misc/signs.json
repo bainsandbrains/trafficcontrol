@@ -5562,5 +5562,19 @@
     "name": "PARDON OUR DUST",
     "type": "diamond",
     "variant": "336"
+  },
+    {
+    "name": "Invalid",
+    "type": "diamond",
+    "variant": "337",
+    "tooltip": "Avoid deliberate use of this sign",
+    "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
+  },
+  {
+    "name": "Deleted",
+    "type": "diamond",
+    "variant": "338",
+    "tooltip": "Avoid deliberate use of this sign",
+    "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
   }
 ]
