@@ -5606,5 +5606,15 @@
     "name": "Diamond Template (Orange)",
     "type": "diamond",
     "variant": "344"
+  },
+  {
+    "name": "Left Lane Closed (Incident)",
+    "type": "diamond",
+    "variant": "345"
+  },
+  {
+    "name": "Right Lane Closed (Incident)",
+    "type": "diamond",
+    "variant": "346"
   }
 ]
