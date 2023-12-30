@@ -5616,5 +5616,10 @@
     "name": "Right Lane Closed (Incident)",
     "type": "diamond",
     "variant": "346"
+  },
+  {
+    "name": "TRUCKS NO LEFT TURN",
+    "type": "diamond",
+    "variant": "347"
   }
 ]
