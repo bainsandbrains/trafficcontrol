@@ -5621,5 +5621,10 @@
     "name": "TRUCKS NO LEFT TURN",
     "type": "diamond",
     "variant": "347"
+  },
+  {
+    "name": "Traffic Signal Ahead (Inverted)",
+    "type": "diamond",
+    "variant": "348"
   }
 ]
