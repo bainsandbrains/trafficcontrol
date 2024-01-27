@@ -5709,5 +5709,10 @@
     "name": "Storm Ready",
     "type": "square",
     "variant": "233"
+  },
+  {
+    "name": "LAST FREE EXIT",
+    "type": "square",
+    "variant": "234"
   }
 ]
