@@ -5626,5 +5626,88 @@
     "name": "Traffic Signal Ahead (Inverted)",
     "type": "diamond",
     "variant": "348"
+  },
+  {
+    "name": "Activity: Squid Game",
+    "type": "square",
+    "variant": "220",
+    "tooltip": "Deadly competitive multistage elimination game"
+  },
+  {
+    "name": "Eastern Highway",
+    "type": "square",
+    "variant": "221",
+    "tooltip": "Also known as the +X Highway"
+  },
+  {
+    "name": "Western Highway",
+    "type": "square",
+    "variant": "222",
+    "tooltip": "Also known as the -X Highway"
+  },
+  {
+    "name": "Southern Highway",
+    "type": "square",
+    "variant": "223",
+    "tooltip": "Also known as the +Z Highway"
+  },
+  {
+    "name": "Northern Highway",
+    "type": "square",
+    "variant": "224",
+    "tooltip": "Also known as the -Z Highway"
+  },
+  {
+    "name": "Right Chevron (Construction)",
+    "type": "square",
+    "variant": "225",
+    "tooltip": "Place at regular intervals along a left curve",
+    "note": "Place at regular intervals on the outside edge of a curve."
+  },
+  {
+    "name": "Right Chevron (Smooth Texture)",
+    "type": "square",
+    "variant": "226",
+    "tooltip": "Place at regular intervals along a left curve",
+    "note": "Place at regular intervals on the outside edge of a curve."
+  },
+  {
+    "name": "No Stopping",
+    "type": "square",
+    "variant": "227"
+  },
+  {
+    "name": "No Stopping (With Inner Sign)",
+    "type": "square",
+    "variant": "228"
+  },
+  {
+    "name": "Invalid",
+    "type": "square",
+    "variant": "229",
+    "tooltip": "Avoid deliberate use of this sign",
+    "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
+  },
+  {
+    "name": "Deleted",
+    "type": "square",
+    "variant": "230",
+    "tooltip": "Avoid deliberate use of this sign",
+    "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
+  },
+  {
+    "name": "WHEN GATE IS DOWN",
+    "type": "square",
+    "variant": "231"
+  },
+  {
+    "name": "WHEN RXR IS ACTIVE",
+    "type": "square",
+    "variant": "232"
+  },
+  {
+    "name": "Storm Ready",
+    "type": "square",
+    "variant": "233"
   }
 ]
