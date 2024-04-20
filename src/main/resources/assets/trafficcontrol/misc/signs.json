@@ -5714,5 +5714,10 @@
     "name": "LAST FREE EXIT",
     "type": "square",
     "variant": "234"
+  },
+  {
+    "name": "Pay Toll (Cash)",
+    "type": "square",
+    "variant": "235"
   }
 ]
