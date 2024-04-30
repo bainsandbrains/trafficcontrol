@@ -5784,7 +5784,7 @@
     "variant": "351",
     "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
   },
-    {
+  {
     "name": "Speed Limit 95 Ahead (Construction)",
     "type": "diamond",
     "variant": "352",
