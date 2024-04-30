@@ -5719,5 +5719,33 @@
     "name": "Pay Toll (Cash)",
     "type": "square",
     "variant": "235"
+  },
+  {
+    "name": "Example sign",
+    "type": "rectangle",
+    "variant": "104",
+    "tooltip": "This is optional. It appears when you hover the mouse over the sign select menu.",
+    "note": "This is optional. It appears at the bottom of the screen once you have selected the sign."
+  },
+  {
+    "name": "Speed Derestriction",
+    "type": "rectangle",
+    "variant": "105",
+    "tooltip": "Use this sign when a speed limit ends.",
+    "note": "This sign marks the end of a local speed limit. Either a regional speed limit takes effect or there is no speed limit."
+  },
+  {
+    "name": "Invalid",
+    "type": "rectangle",
+    "variant": "106",
+    "tooltip": "Avoid deliberate use of this sign",
+    "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
+  },
+  {
+    "name": "Deleted",
+    "type": "rectangle",
+    "variant": "107",
+    "tooltip": "Avoid deliberate use of this sign",
+    "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
   }
 ]
