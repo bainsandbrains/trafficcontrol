@@ -5760,7 +5760,7 @@
     "variant": "109",
     "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
   },
-    {
+  {
     "name": "SPEED LIMIT 100",
     "type": "rectangle",
     "variant": "110",
@@ -5789,5 +5789,10 @@
     "type": "diamond",
     "variant": "352",
     "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "BEGIN TOLL ROAD",
+    "type": "square",
+    "variant": "236"
   }
 ]
