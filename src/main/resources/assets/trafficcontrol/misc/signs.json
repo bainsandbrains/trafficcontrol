@@ -5765,5 +5765,29 @@
     "type": "rectangle",
     "variant": "110",
     "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 90 Ahead",
+    "type": "diamond",
+    "variant": "349",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 95 Ahead",
+    "type": "diamond",
+    "variant": "350",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "Speed Limit 90 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "351",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+    {
+    "name": "Speed Limit 95 Ahead (Construction)",
+    "type": "diamond",
+    "variant": "352",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
   }
 ]
