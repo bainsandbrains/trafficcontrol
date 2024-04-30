@@ -5747,5 +5747,23 @@
     "variant": "107",
     "tooltip": "Avoid deliberate use of this sign",
     "note": "The sign encountered an error, or you entered an ID not used by any signs of this shape."
+  },
+  {
+    "name": "SPEED LIMIT 90",
+    "type": "rectangle",
+    "variant": "108",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+  {
+    "name": "SPEED LIMIT 95",
+    "type": "rectangle",
+    "variant": "109",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
+  },
+    {
+    "name": "SPEED LIMIT 100",
+    "type": "rectangle",
+    "variant": "110",
+    "tooltip": "MPH unless you use the KM/H plaque below (Misc. 16)"
   }
 ]
